@@ -1,0 +1,8 @@
+python/
+.Rhistory
++.Rproj.user
+.DS_Store
+.dropbox
+code_check*
+nohup.out
++*.pdf
