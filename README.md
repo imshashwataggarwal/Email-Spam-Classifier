@@ -1,6 +1,6 @@
 # Email Spam Classifier
 
-A simple implementation of Email Spam Classification using Naive Bayes Classifier from Scratch.
+A simple implementation of Email Spam Classification using Naive Bayes Classifier.
 
 **DATA SET**
   > Raw data comes from the SpamAssassin public corpus, available for free download at http://spamassassin.apache.org/publiccorpus/.
